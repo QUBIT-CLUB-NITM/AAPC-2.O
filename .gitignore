@@ -1,0 +1,40 @@
+# C and C++ compiled artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.lib
+
+# Java compiled class files & archives
+*.class
+*.jar
+*.war
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Contest temporary test files
+*.in
+*.ans
+input*.txt
+output*.txt
